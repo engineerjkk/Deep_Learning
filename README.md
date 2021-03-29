@@ -39,4 +39,8 @@ ___
 
 # East (문자 영역 검출)
 ![image](https://user-images.githubusercontent.com/76835313/111907249-d600bf00-8a97-11eb-8cca-694348e52d4c.png)
+
+# GAN (얼굴 생성)
+![image](https://user-images.githubusercontent.com/76835313/112813202-eb3da500-90b8-11eb-9362-0d6823608db6.png)
+
   
