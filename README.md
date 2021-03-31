@@ -29,7 +29,9 @@ ___
 ![image](https://user-images.githubusercontent.com/76835313/111907213-ace02e80-8a97-11eb-9217-d344a24b6c4d.png)
 
 # YoLo 욜로 객체검출  
-![image](https://user-images.githubusercontent.com/76835313/111907237-c1bcc200-8a97-11eb-98a7-3015fcb3af95.png)
+![image](https://user-images.githubusercontent.com/76835313/113167179-6f8d5500-927e-11eb-865d-67913447db07.png)
+![image](https://user-images.githubusercontent.com/76835313/113167187-70be8200-927e-11eb-990d-f6fc956ceb84.png)
+
 
 # Open Pose (오픈 포즈 활용)  
 ![image](https://user-images.githubusercontent.com/76835313/111907243-ced9b100-8a97-11eb-8d05-cff9cdba9e97.png)
