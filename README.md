@@ -4,18 +4,6 @@ ___
 논문 구현을 위한 실습과 이미 학습된 모델을 활용하여 OpenCV로 다양한 실습을 합니다.  
 아래 디렉토리 외에도 고급 CNN, Segmentation, Transfer Learning, Auto Encoder, GAN, Attention, Faster-R-CNN 등을 학습합니다.  
 
-# Residual Network  
-![image](https://user-images.githubusercontent.com/76835313/111907154-6ab6ed00-8a97-11eb-9aeb-e38220b304f4.png)
-
-# Attention 신경망  
-![image](https://user-images.githubusercontent.com/76835313/111907169-74405500-8a97-11eb-9900-1cd75023c774.png)
-
-# Oxford Pet 모델을 활용한 이미지 Classification  
-![image](https://user-images.githubusercontent.com/76835313/111907182-815d4400-8a97-11eb-9e54-2269b20cdb36.png)
-
-# OpenCV DNN 모듈 활용한 필기체 인식
-![image](https://user-images.githubusercontent.com/76835313/111907213-ace02e80-8a97-11eb-9217-d344a24b6c4d.png)
-
 # YoLo 욜로 객체검출  
 ![image](https://user-images.githubusercontent.com/76835313/113167179-6f8d5500-927e-11eb-865d-67913447db07.png)
 ![image](https://user-images.githubusercontent.com/76835313/113167187-70be8200-927e-11eb-990d-f6fc956ceb84.png)
